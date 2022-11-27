@@ -1,0 +1,11 @@
+C:\Users\Сабина\source\repos\convertImages\convertImages\bin\Debug\convertImages.exe.config
+C:\Users\Сабина\source\repos\convertImages\convertImages\bin\Debug\convertImages.exe
+C:\Users\Сабина\source\repos\convertImages\convertImages\bin\Debug\convertImages.pdb
+C:\Users\Сабина\source\repos\convertImages\convertImages\obj\Debug\convertImages.csproj.AssemblyReference.cache
+C:\Users\Сабина\source\repos\convertImages\convertImages\obj\Debug\convertImages.csproj.SuggestedBindingRedirects.cache
+C:\Users\Сабина\source\repos\convertImages\convertImages\obj\Debug\convertImages.Form1.resources
+C:\Users\Сабина\source\repos\convertImages\convertImages\obj\Debug\convertImages.Properties.Resources.resources
+C:\Users\Сабина\source\repos\convertImages\convertImages\obj\Debug\convertImages.csproj.GenerateResource.cache
+C:\Users\Сабина\source\repos\convertImages\convertImages\obj\Debug\convertImages.csproj.CoreCompileInputs.cache
+C:\Users\Сабина\source\repos\convertImages\convertImages\obj\Debug\convertImages.exe
+C:\Users\Сабина\source\repos\convertImages\convertImages\obj\Debug\convertImages.pdb
